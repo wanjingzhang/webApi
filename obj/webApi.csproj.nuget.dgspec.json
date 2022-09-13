@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CelineZ\\OneDrive - M. Moser Associates Limited\\Desktop\\Other\\Tech\\Back-end\\webApi\\webApi.csproj": {}
+    "C:\\Users\\CelineZ\\OneDrive - M. Moser Associates Limited\\Desktop\\Work\\KC\\_CODE\\web_api\\webApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CelineZ\\OneDrive - M. Moser Associates Limited\\Desktop\\Other\\Tech\\Back-end\\webApi\\webApi.csproj": {
+    "C:\\Users\\CelineZ\\OneDrive - M. Moser Associates Limited\\Desktop\\Work\\KC\\_CODE\\web_api\\webApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CelineZ\\OneDrive - M. Moser Associates Limited\\Desktop\\Other\\Tech\\Back-end\\webApi\\webApi.csproj",
+        "projectUniqueName": "C:\\Users\\CelineZ\\OneDrive - M. Moser Associates Limited\\Desktop\\Work\\KC\\_CODE\\web_api\\webApi.csproj",
         "projectName": "webApi",
-        "projectPath": "C:\\Users\\CelineZ\\OneDrive - M. Moser Associates Limited\\Desktop\\Other\\Tech\\Back-end\\webApi\\webApi.csproj",
+        "projectPath": "C:\\Users\\CelineZ\\OneDrive - M. Moser Associates Limited\\Desktop\\Work\\KC\\_CODE\\web_api\\webApi.csproj",
         "packagesPath": "C:\\Users\\CelineZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CelineZ\\OneDrive - M. Moser Associates Limited\\Desktop\\Other\\Tech\\Back-end\\webApi\\obj\\",
+        "outputPath": "C:\\Users\\CelineZ\\OneDrive - M. Moser Associates Limited\\Desktop\\Work\\KC\\_CODE\\web_api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CelineZ\\AppData\\Roaming\\NuGet\\NuGet.Config"
